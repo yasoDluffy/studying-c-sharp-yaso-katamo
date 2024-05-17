@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studying-c-sharp-yaso-katamo", "studying-c-sharp-yaso-katamo\studying-c-sharp-yaso-katamo.csproj", "{FAD28569-809C-438F-84C3-104A117720B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD28569-809C-438F-84C3-104A117720B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD28569-809C-438F-84C3-104A117720B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD28569-809C-438F-84C3-104A117720B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD28569-809C-438F-84C3-104A117720B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A26D2A73-D0E9-4383-AB2D-2F580297AFBB}
+	EndGlobalSection
+EndGlobal
