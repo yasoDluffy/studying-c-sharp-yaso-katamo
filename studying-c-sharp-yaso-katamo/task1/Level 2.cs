@@ -12,6 +12,7 @@ namespace studying_c_sharp_yaso_katamo.task1
         {
             Console.WriteLine("Hi, I am class Level2");
             Level3_1.RunMe();
+            Level_3_2.RunMe();
         }
     }
 }
