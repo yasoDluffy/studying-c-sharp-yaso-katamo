@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace studying_c_sharp_yaso_katamo
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("hello");
         }
