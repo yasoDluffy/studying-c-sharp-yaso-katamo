@@ -46,6 +46,10 @@
     <Compile Include="objectTemplate\Car.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="task1\Level 3_2.cs" />
+    <Compile Include="task1\Level 1.cs" />
+    <Compile Include="task1\Level 2.cs" />
+    <Compile Include="task1\Level 3_1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
